@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JavaYouTubeWithTeacherCETEC">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/JavaYouTubeWithTeacherCETEC.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
